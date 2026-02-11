@@ -1,12 +1,12 @@
 {
-  "EV Market status": "What is the current state of EV industry in India and how is it expected to evolve over the next 5 years?",
-  "EV adoption market impacts": "What are the headwinds and tailwinds impacting EV adoption in India?",
-  "EV market competition": "Give me a competitive benchmarking of players in the EV industry",
-  "EV market segment": "Which segments within EV industry are most attractive for investment and why?",
-  "2G Phase Out": "When is 2G expected to be phased out? What is the finantial status in the telecom industry for 2G technology?",
-  "5G profitability analysis": "Are telcos in India able to monetize 5G investments? What use cases are they exploring?",
-  "Jio market analysis": "Do a market scan on Jio Platforms' IPO across internet, analyst reports and company filings",
-  "Telecom Market Growth Analysis": "What are the growth levers in Indian telecom sector in the next 3-5 years?",
-  "Broadcasting Market Health Analysis": "What headwinds and tailwinds does the broadcasting industry face in India",
-  "Zee Strategy analysis": "What is Zee's turnaround strategy and what levers is the management focused on?"
+  "Daily Traffic Snapshot": "What is the total passenger booking load versus actual arrival and departure flow for both Terminals today? How does this compare to the previous day?",
+  "Peak Congestion Analysis": "Identify the peak hours for departure entry at Terminal 1 and Terminal 2. Are there specific time windows requiring increased staff allocation?",
+  "Security Lane Efficiency": "Which ATRS lanes in Terminal 1 and Terminal 2 have the highest rejection rates? Is there a correlation between high passenger throughput and rejection frequency?",
+  "Baggage Asset Utilization": "Analyze the distribution of flights across baggage belts. Are specific belts (e.g., T1 Belt 05) consistently over-utilized compared to others?",
+  "Boarding Operations Scan": "What is the split between Aerobridge and Bus boarding for Domestic vs. International flights? Which specific gates are handling the highest passenger volumes?",
+  "Digital Adoption Trends": "What is the current adoption rate of DigiYatra across terminals? Which registration channel (App, Kiosk, DOT) is driving the most user sign-ups?",
+  "Customer Sentiment Pulse": "Summarize the key themes from customer complaints and compliments today. Are there recurring issues with specific departments (e.g., Landside Services) or staff?",
+  "Operational Headwinds": "Based on today's data, what operational bottlenecks (e.g., security delays, gate congestion, high rejection rates) are impacting terminal efficiency?",
+  "Terminal Performance Comparison": "Compare Terminal 1 (Domestic) and Terminal 2 (International/Domestic) across key metrics: passenger volume, security efficiency, and digital adoption.",
+  "Turnaround & Resource Planning": "Based on the arrival and departure profiles, are there potential resource gaps during identified peak hours for the upcoming shifts?"
 }
